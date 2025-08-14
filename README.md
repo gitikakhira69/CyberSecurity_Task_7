@@ -1,20 +1,20 @@
 # Task 7: Identify and Remove Suspicious Browser Extensions
 
-## 📌 Objective
+## Objective
 The objective of this task is to identify and remove any suspicious or unused browser extensions that could pose security risks. This helps improve browser security and performance.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Browser:** Google Chrome
 - **OS:** Windows 10
 - **Built-in Chrome Extensions Manager**
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 ### Before Removal
-## 📸 Screenshots
+## Screenshots
 
 ### Before Removal (All Extensions)
 ![Before - All Extensions](ext1.png)
@@ -46,7 +46,7 @@ The objective of this task is to identify and remove any suspicious or unused br
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 
 1. **Opened Extensions Manager**
    - Navigated to `chrome://extensions/` to see the list of installed extensions.
@@ -78,21 +78,21 @@ The objective of this task is to identify and remove any suspicious or unused br
 
 ---
 
-## 📈 Outcome
+## Outcome
 - Awareness of the security risks of browser extensions.
 - Removed unused/suspicious extensions to reduce attack surface.
 - Improved browser performance and security.
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 - Always check permissions before installing an extension.
 - Extensions from unknown developers can be dangerous.
 - Unused extensions should be removed to avoid hidden risks.
 
 ---
 
-## 🔗 References
+## References
 - [Google Chrome Extensions Help](https://support.google.com/chrome_webstore/answer/2664769)
 - [Browser Extension Security Risks](https://www.kaspersky.com/resource-center/threats/browser-extensions)
 
