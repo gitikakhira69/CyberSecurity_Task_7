@@ -40,10 +40,6 @@ The objective of this task is to identify and remove any suspicious or unused br
 ### After Removal (Only Safe Extensions)
 ![After - Only Safe Extensions](after.png)
 
-
-### After Removal
-(Save and insert the updated screenshot after removing extensions here)
-
 ---
 
 ## Steps Performed
