@@ -7,7 +7,7 @@ The objective of this task is to identify and remove any suspicious or unused br
 
 ## Tools Used
 - **Browser:** Google Chrome
-- **OS:** Windows 10
+- **OS:** Windows 11 Pro
 - **Built-in Chrome Extensions Manager**
 
 ---
