@@ -13,8 +13,6 @@ The objective of this task is to identify and remove any suspicious or unused br
 ---
 
 ## Screenshots
-### Before Removal
-## Screenshots
 
 ### Before Removal (All Extensions)
 ![Before - All Extensions](ext1.png)
